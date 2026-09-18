@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Harsh%20Anand&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Development%20&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Harsh%20Anand&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Development%20Student%20&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%E0%A4%A7%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%83%20%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%AE%E0%A4%BF%20%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A4%A4%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A8;Dhanya%E1%B8%A5%20Asmi%20Bh%C4%81ratatvena" alt="Typing introduction" />
