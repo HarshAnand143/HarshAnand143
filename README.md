@@ -13,7 +13,7 @@
 <img src="https://i.pinimg.com/originals/e0/93/3c/e0933cfe30da2c82232d339dc0e64eb6.gif" alt="Banner" width="100%" />
 
 ## 📊 GitHub Stats & Trophies
-<p align="left">
+<p>
   <a href="https://github.com/HarshAnand143">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HarshAnand143&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="HarshAnand143's GitHub Stats" />
   </a>
