@@ -73,7 +73,7 @@
 
 <h3>Editing</h3>
 <p>
-  <img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" alt="Canva" width="45" />
+  <img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" alt="Canva" width="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Kinemaster_Icon_2022.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="KineMaster" width="45" />
   <img src="assets/editing/Picsart.png" alt="Picsart" width="45" />
 </p>
