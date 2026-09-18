@@ -86,6 +86,7 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
+| Disaster Management System | A full-stack disaster response platform for monitoring incidents, sending alerts, and coordinating emergency information across an admin dashboard, backend API, and mobile app. | [View →](https://github.com/MeetKaushikSharma/Disaster-Management) | 
 | **Online Healthcare Management System** | A robust Healthcare Management System built with Java Swing, JDBC, and MySQL, featuring full CRUD modules for patients, doctors, and appointments. Implements DAO architecture, transaction management, multithreading for smooth UI, password hashing for security, and clean MVC-style separation for maintainable healthcare administration workflows. | [View →](https://github.com/HarshAnand143/Online-Healthcare-Management-System) |
 | **Travel and Tourism Management System** | A Java-based desktop application using Swing and JDBC for managing travel bookings, customers, and tourism packages with MySQL database support. | [View →](https://github.com/HarshAnand143/Travel-And-Tourism-Management-System) |
 
