@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=HarshAnand143">
-    <img src="https://komarev.com/ghpvc/?username=HarshAnand143&label=Profile%20views&color=00FFFF&style=flat-square" alt="HarshAnand143's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=HarshAnand143&label=Profile%20views&color=red&style=flat-square" alt="HarshAnand143's profile views" />
   </a>
 </p>
 
