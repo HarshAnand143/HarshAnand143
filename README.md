@@ -83,12 +83,26 @@
 <br/>
 
 ## 🚀 Featured Projects
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=harshanand143&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184673010%3Fu%3D7f8f0b9b041a3684c9a6ae3fe3b5937082723ffb%26v%3D4&repos=harshanand143%2FOnline-Healthcare-Management-System%2Charshanand143%2FTravel-And-Tourism-Management-System%2Charshanand143%2FDisaster-Management&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=harshanand143&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184673010%3Fu%3D7f8f0b9b041a3684c9a6ae3fe3b5937082723ffb%26v%3D4&repos=harshanand143%2FOnline-Healthcare-Management-System%2Charshanand143%2FTravel-And-Tourism-Management-System%2Charshanand143%2FDisaster-Management&v=recruiter-projects-1&mode=dark" width="100%" alt="Harsh Anand selected projects" />
+</picture>
 
 | Project | Description | Link |
 |---------|-------------|------|
 | **Disaster Management System** | A full-stack disaster response platform for monitoring incidents, sending alerts, and coordinating emergency information across an admin dashboard, backend API, and mobile app. | [View →](https://github.com/MeetKaushikSharma/Disaster-Management) | 
 | **Online Healthcare Management System** | A robust Healthcare Management System built with Java Swing, JDBC, and MySQL, featuring full CRUD modules for patients, doctors, and appointments. Implements DAO architecture, transaction management, multithreading for smooth UI, password hashing for security, and clean MVC-style separation for maintainable healthcare administration workflows. | [View →](https://github.com/HarshAnand143/Online-Healthcare-Management-System) |
 | **Travel and Tourism Management System** | A Java-based desktop application using Swing and JDBC for managing travel bookings, customers, and tourism packages with MySQL database support. | [View →](https://github.com/HarshAnand143/Travel-And-Tourism-Management-System) |
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=harshanand143&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184673010%3Fu%3D7f8f0b9b041a3684c9a6ae3fe3b5937082723ffb%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=harshanand143&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184673010%3Fu%3D7f8f0b9b041a3684c9a6ae3fe3b5937082723ffb%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Harsh Anand contribution activity" />
+</picture>
+</p>
+
 
 ## 🔗 Connect with Me
 <p>
