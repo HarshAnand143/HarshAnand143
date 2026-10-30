@@ -31,47 +31,14 @@
 
 ## 🛠️ Languages & Tools
 
-<h3>Programming Languages</h3>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
-
-</p>
-
-<h3>Frontend</h3>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-
-</p>
-
-<h3>Database</h3>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-
-</p>
-
-<h3>DevOps & Cloud</h3>
-<p>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
-
-</p>
-
-<h3>Tools</h3>
-<p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
-</p>
-
-<h3>Editing</h3>
-<p>
-  <img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" alt="Canva" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Kinemaster_Icon_2022.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="KineMaster" width="45" />
-  <img src="assets/editing/Picsart.png" alt="Picsart" width="45" />
-</p>
+| Category | Technologies |
+|----------|--------------|
+| **Programming Languages** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" /> |
+| **Frontend** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" /> |
+| **Database** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" /> |
+| **DevOps & Cloud** | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" /> |
+| **Tools** | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp; <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp; <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" /> |
+| **Editing** | <img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" alt="Canva" width="50" /> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Kinemaster_Icon_2022.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="KineMaster" width="45" /> <img src="assets/editing/Picsart.png" alt="Picsart" width="45" /> |
 
 
 ![Top language](https://stats.pphat.top/languages?username=HarshAnand143)
@@ -89,7 +56,7 @@
 | **Online Healthcare Management System** | A robust Healthcare Management System built with Java Swing, JDBC, and MySQL, featuring full CRUD modules for patients, doctors, and appointments. Implements DAO architecture, transaction management, multithreading for smooth UI, password hashing for security, and clean MVC-style separation for maintainable healthcare administration workflows. | [View →](https://github.com/HarshAnand143/Online-Healthcare-Management-System) |
 | **Travel and Tourism Management System** | A Java-based desktop application using Swing and JDBC for managing travel bookings, customers, and tourism packages with MySQL database support. | [View →](https://github.com/HarshAnand143/Travel-And-Tourism-Management-System) |
 
-<h2>Consistency signal</h2>
+<h2>📈 Consistency signal</h2>
 
 <p align="center">
 <picture>
