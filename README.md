@@ -70,6 +70,9 @@
 
 [![Star History Chart](https://api.star-history.com/chart?repos=harshanand143/harshanand143%2Charshanand143/online-healthcare-management-system%2Charshanand143/travel-and-tourism-management-system&type=date&legend=top-left)](https://www.star-history.com/?repos=harshanand143%2Fharshanand143%2Charshanand143%2Fonline-healthcare-management-system%2Charshanand143%2Ftravel-and-tourism-management-system&type=date&legend=top-left)
 
+## ❤️ Support my work:
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤-pink)](https://github.com/sponsors/HarshAnand143)
+
 
 ## 🔗 Connect with Me
 <p>
