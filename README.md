@@ -39,36 +39,15 @@
 | **DevOps & Cloud** | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" /> |
 | **Tools** | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp; <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp; <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" /> |
 | **Editing** | <img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" alt="Canva" width="50" /> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Kinemaster_Icon_2022.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="KineMaster" width="45" /> <img src="assets/editing/Picsart.png" alt="Picsart" width="45" /> |
-
-
-![Top language](https://stats.pphat.top/languages?username=HarshAnand143)
 <br/>
 
 ## 🚀 Featured Projects
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=harshanand143&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184673010%3Fu%3D7f8f0b9b041a3684c9a6ae3fe3b5937082723ffb%26v%3D4&repos=harshanand143%2FOnline-Healthcare-Management-System%2Charshanand143%2FTravel-And-Tourism-Management-System%2Charshanand143%2FDisaster-Management&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=harshanand143&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184673010%3Fu%3D7f8f0b9b041a3684c9a6ae3fe3b5937082723ffb%26v%3D4&repos=harshanand143%2FOnline-Healthcare-Management-System%2Charshanand143%2FTravel-And-Tourism-Management-System%2Charshanand143%2FDisaster-Management&v=recruiter-projects-1&mode=dark" width="100%" alt="Harsh Anand selected projects" />
-</picture>
-
 | Project | Description | Link |
 |---------|-------------|------|
 | **Disaster Management System** | A full-stack disaster response platform for monitoring incidents, sending alerts, and coordinating emergency information across an admin dashboard, backend API, and mobile app. | [View →](https://github.com/MeetKaushikSharma/Disaster-Management) | 
 | **Online Healthcare Management System** | A robust Healthcare Management System built with Java Swing, JDBC, and MySQL, featuring full CRUD modules for patients, doctors, and appointments. Implements DAO architecture, transaction management, multithreading for smooth UI, password hashing for security, and clean MVC-style separation for maintainable healthcare administration workflows. | [View →](https://github.com/HarshAnand143/Online-Healthcare-Management-System) |
 | **Travel and Tourism Management System** | A Java-based desktop application using Swing and JDBC for managing travel bookings, customers, and tourism packages with MySQL database support. | [View →](https://github.com/HarshAnand143/Travel-And-Tourism-Management-System) |
 
-<h2>📈 Consistency signal</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=harshanand143&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184673010%3Fu%3D7f8f0b9b041a3684c9a6ae3fe3b5937082723ffb%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=harshanand143&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184673010%3Fu%3D7f8f0b9b041a3684c9a6ae3fe3b5937082723ffb%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Harsh Anand contribution activity" />
-</picture>
-</p>
-
-
-## ✨ Star History
-
-[![Star History Chart](https://api.star-history.com/chart?repos=harshanand143/harshanand143%2Charshanand143/online-healthcare-management-system%2Charshanand143/travel-and-tourism-management-system&type=date&legend=top-left)](https://www.star-history.com/?repos=harshanand143%2Fharshanand143%2Charshanand143%2Fonline-healthcare-management-system%2Charshanand143%2Ftravel-and-tourism-management-system&type=date&legend=top-left)
 
 ## ❤️ Support my work:
 [![Sponsor](https://img.shields.io/badge/Sponsor-❤-pink)](https://github.com/sponsors/HarshAnand143)
